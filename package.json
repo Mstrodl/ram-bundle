@@ -4,7 +4,7 @@
   "description": "A packer and unpacker for react-native RAM bundles",
   "main": "bin/cli.js",
   "bin": {
-    "ram-bundle": "cli.js"
+    "ram-bundle": "bin/cli.js"
   },
   "directories": {
     "lib": "lib"
